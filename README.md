@@ -2,8 +2,6 @@
   
 
 #### Welcome to my page  
-  
-
 #### I'm Thein Thein Swe, full-stack developer from Myanmar.  
   
 
